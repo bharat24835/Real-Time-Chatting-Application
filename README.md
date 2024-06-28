@@ -73,7 +73,7 @@ Start the Client
 ### Add or Remove users from group
 ![](https://github.com/bharat24835/Real-Time-Chatting-Application/blob/main/screenshots/add%20rem.PNG)
 ### View Other user Profile
-![](https://github.com/bharat24835/Real-Time-Chatting-Application/blob/main/screenshots/profile.PNG)
+![](https://github.com/bharat24835/Real-Time-Chatting-Application/blob/main/screenshots/profile1.PNG)
 ## Made By
 
 - [@bharat24835](https://github.com/bharat24835)
