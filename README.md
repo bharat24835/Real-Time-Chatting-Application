@@ -13,15 +13,15 @@ Uses Socket.io for real time communication and stores user details in encrypted 
   
 ## Demo
 
-[https://talk-a-tive.herokuapp.com/](https://talk-a-tive-7fgq.onrender.com)
+[LINK ]()
 
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/group%20%2B%20notif.PNG)
+![](https://github.com/bharat24835/Real-Time-Chatting-Apllication/blob/master/screenshots/group%20%2B%20notif.P)
 ## Run Locally
 
 Clone the project
 
 ```bash
-  git clone https://github.com/piyush-eon/mern-chat-app
+  git clone https://github.com/bharat24835/Real-Time-Chatting-Application
 ```
 
 Go to the project directory
